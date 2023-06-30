@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688157070 source:d:\codeblocks projects\testtask\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cassert>
+	<vector>
+
